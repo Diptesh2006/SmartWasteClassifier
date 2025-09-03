@@ -1,6 +1,6 @@
 # Smart Waste Classifier
 
-This repository contains the code and resources for the **Smart Waste Classifier** project, developed for the **FORK THIS** competition organized by CSI-VIT.
+This repository contains the code and resources for the **Smart Waste Classifier** project.
 
 ## Overview
 
@@ -27,7 +27,8 @@ The dataset contains images of various types of waste, including:
 - Model inference demonstration.
 
 ## Getting Started
-It is recommended to carry out the execution/corrections using Google colab otherwise you may refer the steps below.
+It is ***recommended to carry out the execution/corrections using Google colab*** otherwise you may refer the steps below.
+Note: the given code presents the case where you upload the dataset file to Colab and perform the executions. Alternatively you can skip the upload block.
 
 ### Prerequisites
 
