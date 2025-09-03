@@ -6,10 +6,6 @@ This repository contains the code and resources for the **Smart Waste Classifier
 
 The Smart Waste Classifier aims to automate the process of sorting waste by leveraging machine learning and computer vision techniques. This project provides tools and models to classify different types of trash, helping improve recycling efficiency and reduce manual sorting efforts.
 
-## Competition
-
-This project was developed as a submission for the [FORK THIS](https://forkthis.csivit.com/) competition by CSI-VIT. The participants are to find apropriate errors in the codes and hence the .iynb file has a few errors intentionally.
-
 ## Dataset
 
 The model is trained using the dataset available at [dataset](https://drive.google.com/file/d/1PMN1Pp_pQo4-5zNE5SBQgLW_Wdsy96BV/view?usp=drive_link).
