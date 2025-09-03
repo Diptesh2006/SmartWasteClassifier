@@ -12,7 +12,9 @@ This project was developed as a submission for the [FORK THIS](https://forkthis.
 
 ## Dataset
 
-The model is trained using the [TrashNet dataset](https://www.kaggle.com/datasets/feyzazkefe/trashnet) available on Kaggle. The dataset contains images of various types of waste, including:
+The model is trained using the dataset available at [dataset](https://drive.google.com/file/d/1PMN1Pp_pQo4-5zNE5SBQgLW_Wdsy96BV/view?usp=drive_link).
+
+The dataset contains images of various types of waste, including:
 
 - Glass
 - Paper
