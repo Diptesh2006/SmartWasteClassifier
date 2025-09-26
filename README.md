@@ -51,24 +51,7 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
-### Dataset Setup
 
-Download the TrashNet dataset from [Kaggle](https://www.kaggle.com/datasets/feyzazkefe/trashnet) and extract it into the `data/` directory:
-
-```
-smart-waste-classifier/
-└── data/
-    └── trashnet/
-        ├── glass/
-        ├── paper/
-        ├── cardboard/
-        ├── plastic/
-        ├── metal/
-        └── trash/
-```
-
-
-```
 
 ## Contributing
 
